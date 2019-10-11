@@ -8,5 +8,5 @@ TANGGAL     : 23-9-2019
 """
 t = 12.5
 vt = 21.55
-a = vt / t
-print(a)
+b = vt / t
+print(b)
