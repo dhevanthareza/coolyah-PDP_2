@@ -6,7 +6,7 @@ KELOMPOK    : A11.4118
 TANGGAL     : 23-9-2019 
 ========================================
 """
-t = 12.5
-vt = 21.55
-b = vt / t
-print(b)
+waktu = 12.5
+kecepatanAkhir = 21.55
+percepatan = kecepatanAkhir / waktu
+print(percepatan)
